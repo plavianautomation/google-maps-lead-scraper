@@ -5,7 +5,7 @@ APIFY_TOKEN = "YOUR_APIFY_TOKEN"
 url = f"https://api.apify.com/v2/acts/compass/google-maps-scraper/run-sync-get-dataset-items?token={APIFY_TOKEN}"
 
 payload = {
-    "searchStringsArray": ["restaurants in nairobi"],
+    "searchStringsArray": ["restaurants in san francisco"],
     "maxCrawledPlaces": 10
 }
 
