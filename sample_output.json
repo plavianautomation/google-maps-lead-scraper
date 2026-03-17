@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Golden Gate Restaurant",
+    "rating": 4.6,
+    "reviews": 342,
+    "address": "123 Market St, San Francisco, CA",
+    "phone": "+1 415-555-1234",
+    "website": "https://goldengaterestaurant.com"
+  },
+  {
+    "name": "Bay Area Dental Group",
+    "rating": 4.8,
+    "reviews": 198,
+    "address": "456 Mission St, San Francisco, CA",
+    "phone": "+1 415-555-5678",
+    "website": "https://bayareadental.com"
+  },
+  {
+    "name": "SF Fitness Hub",
+    "rating": 4.7,
+    "reviews": 275,
+    "address": "789 Howard St, San Francisco, CA",
+    "phone": "+1 415-555-9012",
+    "website": "https://sffitnesshub.com"
+  }
+]
